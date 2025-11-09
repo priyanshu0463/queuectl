@@ -334,5 +334,5 @@ A working CLI demo video is available at: [Link to be added]
 
 ---
 
-**Built with ❤️ using Python, Typer, and SQLite**
+
 
